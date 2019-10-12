@@ -1,0 +1,28 @@
+{
+    "update_id": 965263836,
+    "message": {
+        "date": 1570807814,
+        "entities": [
+            {
+                "length": 5,
+                "type": "bot_command",
+                "offset": 0
+            }
+        ],
+        "message_id": 132,
+        "chat": {
+            "first_name": "Sreejith",
+            "username": "Sreejit_h",
+            "type": "private",
+            "id": 461268106
+        },
+        "from": {
+            "first_name": "Sreejith",
+            "username": "Sreejit_h",
+            "is_bot": false,
+            "language_code": "en",
+            "id": 461268106
+        },
+        "text": "/amma"
+    }
+}
