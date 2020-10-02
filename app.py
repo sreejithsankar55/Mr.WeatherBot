@@ -12,8 +12,8 @@ from flask_sslify import SSLify
 app = Flask(__name__)
 sslify = SSLify(app)  # comment this if testing locally
 
-token = 'xxxxxxxxxxxxxxxxx'
-APP_ID = 'xxxxxxxxxxxxxxxx'
+token = 'xxxxxxxxxxxxxxxxx' #take from env variables
+APP_ID = 'xxxxxxxxxxxxxxxx' #take from env variables
 
 
 def write_json(data, filename='response.json'):
